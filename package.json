@@ -1,0 +1,29 @@
+{
+    "name": "poimandres-alternate",
+    "displayName": "poimandres-alternate",
+    "description": "A deep black version of the beautiful poimandres theme",
+    "version": "0.0.1",
+    "publisher": "DanielPriestley",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "poimandres",
+        "black theme",
+        "black",
+        "dark"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Poimandres Alternate",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Poimandres Alternate-color-theme.json"
+            }
+        ]
+    }
+}
